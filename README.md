@@ -1,3 +1,5 @@
-# My Awesome Book
+# 《编写可读代码的艺术》--读书笔记
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+> 本书是读书笔记，原书的介绍可戳[这里](https://book.douban.com/subject/10797189/)
+
+本读书笔记对书中关于代码规范及思想进行了要点总结，以便于参考和查看
